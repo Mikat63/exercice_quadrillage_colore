@@ -173,6 +173,9 @@
   .w-\[90\%\] {
     width: 90%;
   }
+  .cursor-pointer {
+    cursor: pointer;
+  }
   .flex-col {
     flex-direction: column;
   }
