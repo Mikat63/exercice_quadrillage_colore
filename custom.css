@@ -5,19 +5,3 @@ h1 {
   font-weight: 400;
   font-style: normal;
 }
-
-.square_container {
-  display: flex;
-}
-
-.squareCol {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-}
-
-.square {
-  border: 2px solid black;
-  width: 75px;
-  height: 75px;
-}
